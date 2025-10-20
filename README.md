@@ -67,8 +67,8 @@ Ambitious AI practitioner with Python skills and interests in **data visualizati
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gmahesh0445)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gorige-mahesh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahesh-gorige-603a22342/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Gmahesh0445)
 
 ---
 
